@@ -1,0 +1,90 @@
+[
+ {
+  "file": "invoice_01.pdf",
+  "vendor": "Blue Harbor Supplies",
+  "invoice_no": "INV-2026-1007",
+  "date": "2026-09-29",
+  "due_date": "2026-10-29",
+  "subtotal": 896.8,
+  "vat": 71.74,
+  "total": 968.54,
+  "n_lines": 5
+ },
+ {
+  "file": "invoice_02.pdf",
+  "vendor": "Northwind Office Co.",
+  "invoice_no": "INV-2026-1014",
+  "date": "2026-09-29",
+  "due_date": "2026-10-29",
+  "subtotal": 892.0,
+  "vat": 71.36,
+  "total": 963.36,
+  "n_lines": 4
+ },
+ {
+  "file": "invoice_03.pdf",
+  "vendor": "Sunrise Packaging Ltd",
+  "invoice_no": "INV-2026-1021",
+  "date": "2026-09-11",
+  "due_date": "2026-10-11",
+  "subtotal": 87.5,
+  "vat": 7.0,
+  "total": 94.5,
+  "n_lines": 2
+ },
+ {
+  "file": "invoice_04.pdf",
+  "vendor": "Greenleaf Stationery",
+  "invoice_no": "INV-2026-1028",
+  "date": "2026-09-16",
+  "due_date": "2026-10-16",
+  "subtotal": 520.1,
+  "vat": 41.61,
+  "total": 561.71,
+  "n_lines": 2
+ },
+ {
+  "file": "invoice_05.pdf",
+  "vendor": "Delta Print Works",
+  "invoice_no": "INV-2026-1035",
+  "date": "2026-09-13",
+  "due_date": "2026-10-13",
+  "subtotal": 141.0,
+  "vat": 11.28,
+  "total": 152.28,
+  "n_lines": 3
+ },
+ {
+  "file": "invoice_06.pdf",
+  "vendor": "Pioneer IT Trading",
+  "invoice_no": "INV-2026-1042",
+  "date": "2026-09-27",
+  "due_date": "2026-10-27",
+  "subtotal": 500.3,
+  "vat": 40.02,
+  "total": 540.32,
+  "n_lines": 2
+ },
+ {
+  "file": "invoice_07.pdf",
+  "vendor": "Lotus Cleaning Services",
+  "invoice_no": "INV-2026-1049",
+  "date": "2026-09-19",
+  "due_date": "2026-10-19",
+  "subtotal": 430.5,
+  "vat": 34.44,
+  "total": 464.94,
+  "n_lines": 2
+ },
+ {
+  "file": "invoice_08.pdf",
+  "vendor": "Orion Logistics",
+  "invoice_no": "INV-2026-1056",
+  "date": "2026-09-07",
+  "due_date": "2026-10-07",
+  "subtotal": 192.5,
+  "vat": 15.4,
+  "total": 207.9,
+  "n_lines": 4
+ }
+]
